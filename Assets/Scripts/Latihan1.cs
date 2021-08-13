@@ -8,7 +8,6 @@ public class Latihan1 : MonoBehaviour
     void Start()
     {
         Debug.Log("Wassup");
-        Debug.Log("GitHub Test");
     }
 
     // Update is called once per frame
